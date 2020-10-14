@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/JoseAssests/Scene/city2.unity
+- path: Assets/JoseAssests/Scene/MainMenu.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
