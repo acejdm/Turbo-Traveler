@@ -19,9 +19,9 @@ MonoBehaviour:
     width: 1706.6666
     height: 877.7778
   m_ShowMode: 4
-  m_Title: Inspector
+  m_Title: Scene
   m_RootView: {fileID: 6}
-  m_MinSize: {x: 875, y: 300}
+  m_MinSize: {x: 875, y: 392}
   m_MaxSize: {x: 10000, y: 10000}
   m_Maximized: 1
 --- !u!114 &2
@@ -45,10 +45,10 @@ MonoBehaviour:
     y: 30
     width: 1706.6666
     height: 827.7778
-  m_MinSize: {x: 678, y: 342}
-  m_MaxSize: {x: 12003, y: 8042}
+  m_MinSize: {x: 679, y: 342}
+  m_MaxSize: {x: 12004, y: 8042}
   vertical: 0
-  controlID: 15
+  controlID: 63
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -68,8 +68,8 @@ MonoBehaviour:
     y: 0
     width: 403.11108
     height: 827.7778
-  m_MinSize: {x: 275, y: 50}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 276, y: 71}
+  m_MaxSize: {x: 4001, y: 4021}
   m_ActualView: {fileID: 13}
   m_Panes:
   - {fileID: 13}
@@ -150,7 +150,7 @@ MonoBehaviour:
     y: 0
     width: 1706.6666
     height: 877.7778
-  m_MinSize: {x: 875, y: 300}
+  m_MinSize: {x: 875, y: 392}
   m_MaxSize: {x: 10000, y: 10000}
   m_UseTopView: 1
   m_TopViewHeight: 30
@@ -226,7 +226,7 @@ MonoBehaviour:
   m_MinSize: {x: 403, y: 342}
   m_MaxSize: {x: 8003, y: 8042}
   vertical: 1
-  controlID: 16
+  controlID: 32
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -251,7 +251,7 @@ MonoBehaviour:
   m_MinSize: {x: 403, y: 221}
   m_MaxSize: {x: 8003, y: 4021}
   vertical: 0
-  controlID: 17
+  controlID: 33
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -331,21 +331,21 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 27.444458}
     m_SelectedIDs: 988b0000
     m_LastClickedID: 35736
-    m_ExpandedIDs: 00000000c28a0000c48a0000c68a0000c88a0000ca8a0000cc8a0000ce8a0000d68a0000e28a000000ca9a3b
+    m_ExpandedIDs: 000000007e3c0000803c0000823c0000843c0000863c0000883c00008a3c0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
-      m_Name: 8K Skybox Pack Free
-      m_OriginalName: 8K Skybox Pack Free
+      m_Name: 
+      m_OriginalName: 
       m_EditFieldRect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 0
         height: 0
-      m_UserData: 35542
+      m_UserData: 0
       m_IsWaitingForDelay: 0
       m_IsRenaming: 0
-      m_OriginalEventType: 0
+      m_OriginalEventType: 11
       m_IsRenamingFilename: 1
       m_ClientGUIView: {fileID: 5}
     m_SearchString: 
@@ -359,7 +359,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000c28a0000c48a0000c68a0000c88a0000ca8a0000cc8a0000ce8a0000
+    m_ExpandedIDs: 000000007e3c0000803c0000823c0000843c0000863c0000883c00008a3c0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -480,24 +480,24 @@ MonoBehaviour:
   m_ViewDataDictionary: {fileID: 0}
   m_SceneHierarchy:
     m_TreeViewState:
-      scrollPos: {x: 0, y: 43.77777}
-      m_SelectedIDs: b68c0000
-      m_LastClickedID: 36022
-      m_ExpandedIDs: 422cffff522dffff9e2fffffb88b0000d28b0000f08b0000448c0000b68c0000
+      scrollPos: {x: 0, y: 0}
+      m_SelectedIDs: ae390000
+      m_LastClickedID: 14766
+      m_ExpandedIDs: 40fbffffbc380000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
-        m_Name: Waypoint 002
-        m_OriginalName: Waypoint 002
+        m_Name: 
+        m_OriginalName: 
         m_EditFieldRect:
           serializedVersion: 2
           x: 0
           y: 0
           width: 0
           height: 0
-        m_UserData: 35938
+        m_UserData: 0
         m_IsWaitingForDelay: 0
         m_IsRenaming: 0
-        m_OriginalEventType: 0
+        m_OriginalEventType: 11
         m_IsRenamingFilename: 0
         m_ClientGUIView: {fileID: 4}
       m_SearchString: 
@@ -543,9 +543,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 32.464397, y: 156.15337, z: 281.46387}
+    m_Target: {x: 32.269287, y: 156.15334, z: 280.88425}
     speed: 2
-    m_Value: {x: 32.464397, y: 156.15337, z: 281.46387}
+    m_Value: {x: 32.269287, y: 156.15334, z: 280.88425}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -594,7 +594,7 @@ MonoBehaviour:
   m_Rotation:
     m_Target: {x: -0.24903953, y: -0.7344316, z: 0.3466404, w: -0.52768356}
     speed: 2
-    m_Value: {x: -0.24903704, y: -0.7344243, z: 0.34663695, w: -0.52767825}
+    m_Value: {x: 0.24903955, y: 0.7344316, z: -0.3466404, w: 0.52768356}
   m_Size:
     m_Target: 0.8660254
     speed: 2
@@ -671,8 +671,8 @@ MonoBehaviour:
     vZoomLockedByDefault: 0
     m_HBaseRangeMin: -217.53087
     m_HBaseRangeMax: 217.53087
-    m_VBaseRangeMin: -99.60494
-    m_VBaseRangeMax: 99.60494
+    m_VBaseRangeMin: -104.27161
+    m_VBaseRangeMax: 104.27161
     m_HAllowExceedBaseRangeMin: 1
     m_HAllowExceedBaseRangeMax: 1
     m_VAllowExceedBaseRangeMin: 1
@@ -689,11 +689,11 @@ MonoBehaviour:
     m_DrawArea:
       serializedVersion: 2
       x: 0
-      y: 21
+      y: 0
       width: 978.8889
-      height: 448.22223
+      height: 469.22223
     m_Scale: {x: 2, y: 2}
-    m_Translation: {x: 489.44446, y: 224.11111}
+    m_Translation: {x: 489.44446, y: 234.61111}
     m_MarginLeft: 0
     m_MarginRight: 0
     m_MarginTop: 0
@@ -701,9 +701,9 @@ MonoBehaviour:
     m_LastShownAreaInsideMargins:
       serializedVersion: 2
       x: -244.72223
-      y: -112.05556
+      y: -117.30556
       width: 489.44446
-      height: 224.11111
+      height: 234.61111
     m_MinimalGUI: 1
   m_defaultScale: 2
   m_LastWindowPixelSize: {x: 2202.5, y: 1055.75}
