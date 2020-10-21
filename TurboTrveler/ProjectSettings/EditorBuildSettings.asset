@@ -11,4 +11,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/JoseAssests/Scene/CarSelection.unity
     guid: 3c95aaddfb89d934e960bebae5f0ace8
+  - enabled: 1
+    path: Assets/JoseAssests/Scene/city2.unity
+    guid: 11471c063f9d3d146b25a50bc8e9eb19
   m_configObjects: {}
