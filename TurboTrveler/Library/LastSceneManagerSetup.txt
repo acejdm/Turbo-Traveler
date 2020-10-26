@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/JoseAssests/Scene/CarSelection.unity
+- path: Assets/JoseAssests/Scene/terrain1.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
