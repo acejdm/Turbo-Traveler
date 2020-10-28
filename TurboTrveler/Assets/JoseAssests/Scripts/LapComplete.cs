@@ -1,5 +1,6 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
+
 using UnityEngine;
 using UnityEngine.UI;
 public class LapComplete : MonoBehaviour
@@ -13,6 +14,8 @@ public class LapComplete : MonoBehaviour
 
     public GameObject LapTimeBox;
 
+    public GameObject LapCounter;
+    public int LapsDone;
     
     // Start is called before the first frame update
     void Start()
@@ -30,6 +33,7 @@ public class LapComplete : MonoBehaviour
         
        
     {
+        LapsDone += 1;
         if(LapTimeManeger.SecondCount <= 9)
         {
             SecondDisplay.GetComponent<Text>().text = "0" + LapTimeManeger.SecondCount + ".";
@@ -54,7 +58,7 @@ public class LapComplete : MonoBehaviour
         LapTimeManeger.MinuteCount = 0;
         LapTimeManeger.SecondCount = 0;
         LapTimeManeger.MilliCount = 0;
-        
+        LapCounter.GetComponent<Text>().text = "" + LapsDone;
         HalfLapTrig.SetActive (true);
         LapCompleteTrig.SetActive(false);
     }
