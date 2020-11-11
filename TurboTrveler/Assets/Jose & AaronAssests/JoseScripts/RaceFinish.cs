@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 using UnityStandardAssets.Vehicles.Car;
+using UnityEngine.SceneManagement;
 
 public class RaceFinish : MonoBehaviour
 {
@@ -20,5 +21,11 @@ public class RaceFinish : MonoBehaviour
         MyCar.SetActive(true);
         FinishCam.SetActive(true);
         ViewModes.SetActive(false);
+
+        int nextSceneIndex = SceneManager.GetActiveScene().buildIndex;
+        if (SceneManager.sceneCountInBuildSettings > nextSceneIndex)
+        {
+            SceneManager.LoadScene(0);
+        }
     }
 }
