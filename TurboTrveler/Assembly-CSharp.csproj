@@ -64,6 +64,7 @@
     <Compile Include="Assets\Jose &amp; AaronAssests\JoseScripts\LoadLapTime.cs" />
     <Compile Include="Assets\Jose &amp; AaronAssests\JoseScripts\LapComplete.cs" />
     <Compile Include="Assets\Jose &amp; AaronAssests\JoseScripts\LapTimeManeger.cs" />
+    <Compile Include="Assets\Jose &amp; AaronAssests\JoseScripts\RaceFinish.cs" />
     <Compile Include="Assets\Jose &amp; AaronAssests\AaronScripts\DataHandler.cs" />
     <Compile Include="Assets\Jose &amp; AaronAssests\JoseScripts\CarPosition\PosDown.cs" />
     <Compile Include="Assets\Jose &amp; AaronAssests\JoseScripts\FinishRotate.cs" />
@@ -73,9 +74,8 @@
     <Compile Include="Assets\Jose &amp; AaronAssests\JoseScripts\CarPosition\PosUp.cs" />
     <Compile Include="Assets\SampleScenes\Menu\Scripts\MenuSceneLoader.cs" />
     <Compile Include="Assets\SampleScenes\Scripts\PlaceTargetWithMouse.cs" />
-    <Compile Include="Assets\Jose &amp; AaronAssests\AaronScripts\LevelLoader.cs" />
     <Compile Include="Assets\Jose &amp; AaronAssests\JoseScripts\FinishCamaraRotate.cs" />
-    <Compile Include="Assets\Jose &amp; AaronAssests\JoseScripts\RaceFinish.cs" />
+    <Compile Include="Assets\Jose &amp; AaronAssests\AaronScripts\LevelLoader.cs" />
   </ItemGroup>
   <ItemGroup>
      <None Include="Assets\SampleScenes\Shaders\Skybox-Procedural.shader" />
