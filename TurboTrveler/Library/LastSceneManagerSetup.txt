@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Jose & AaronAssests/Scene/MainMenu.unity
+- path: Assets/Jose & AaronAssests/Scene/CarGarage.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
