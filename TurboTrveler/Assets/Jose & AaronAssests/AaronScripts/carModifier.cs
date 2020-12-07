@@ -5,7 +5,7 @@ using UnityEngine.SceneManagement;
 
 public class carModifier : MonoBehaviour
 {
-    public controller controllerRef;
+    /*public controller controllerRef;
     //I_ for index  L_ for lists P_price
     [Header("engine")]
     public bool engineUpgrade;              // idicator 
@@ -130,5 +130,5 @@ public class carModifier : MonoBehaviour
             }
         }
 
-    }
+    }*/
 }

@@ -3,7 +3,7 @@ using UnityEngine.UI;
 
 public class CarUpgrades : MonoBehaviour
 {
-    public int xPointer = -520; // used for the x value of the canvases
+    /*public int xPointer = -520; // used for the x value of the canvases
     public vehicleList list;
     public GameObject chilldObject;
     [Header("exitPanelButton")]
@@ -319,5 +319,5 @@ public class CarUpgrades : MonoBehaviour
         //print("k value > "+k + "price Value > " + i);
 
     }
-
+    */
 }

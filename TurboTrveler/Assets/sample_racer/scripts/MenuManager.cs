@@ -2,7 +2,7 @@
 using System.Collections;
 
 public class MenuManager : MonoBehaviour {
-
+    /*
 	public enum Menus 
 	{
 		MainMenu,
@@ -214,5 +214,5 @@ public class MenuManager : MonoBehaviour {
 			currentMenu = Menus.NetworkSingle;
 			break;
 		}
-	}
+	}*/
 }
