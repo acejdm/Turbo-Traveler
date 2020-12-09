@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Jose & AaronAssests/Scene/terrain1.unity
+- path: Assets/Jose & AaronAssests/Assets/RacingGameAssets/Scenes/awakeScene.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
