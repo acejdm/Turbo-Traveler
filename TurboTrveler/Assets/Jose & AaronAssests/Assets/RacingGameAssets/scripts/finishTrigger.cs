@@ -1,15 +1,14 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityStandardAssets.Vehicles.Car;
+using UnityEngine.SceneManagement;
 
 public class finishTrigger : MonoBehaviour{
 
-    public controller Controller;
-
-    private void OnTriggerEnter(Collider other) {
-        if(other.tag == "Finish")
-            Controller.hasFinished = true;
-            
+    /*private void OnTriggerEnter(Collider other) {
+        if (other.tag == "Finish")
+            SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
     }
-
+    */
 }

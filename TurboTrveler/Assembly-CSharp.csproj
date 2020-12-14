@@ -87,6 +87,7 @@
     <Compile Include="Assets\sample_racer\scripts\SliderTextShow.cs" />
     <Compile Include="Assets\Jose &amp; AaronAssests\Assets\RacingGameAssets\scripts\carModifier.cs" />
     <Compile Include="Assets\Jose &amp; AaronAssests\Assets\RacingGameAssets\scripts\AI\AIcontroller.cs" />
+    <Compile Include="Assets\Jose &amp; AaronAssests\AaronScripts\DontDestroy.cs" />
     <Compile Include="Assets\Jose &amp; AaronAssests\Assets\RacingGameAssets\scripts\vehicleList.cs" />
     <Compile Include="Assets\Jose &amp; AaronAssests\Assets\RacingGameAssets\scripts\GraphOverlay.cs" />
     <Compile Include="Assets\Jose &amp; AaronAssests\Assets\RacingGameAssets\map\AllSkyFree\AllSkyFree_Menu.cs" />
@@ -94,6 +95,7 @@
     <Compile Include="Assets\Jose &amp; AaronAssests\AaronScripts\LevelLoader.cs" />
     <Compile Include="Assets\Jose &amp; AaronAssests\Assets\RacingGameAssets\scripts\inputManager.cs" />
     <Compile Include="Assets\Jose &amp; AaronAssests\AaronScripts\CarGarageSetup.cs" />
+    <Compile Include="Assets\Jose &amp; AaronAssests\GlobalObject\GlobalControl.cs" />
   </ItemGroup>
   <ItemGroup>
      <None Include="Assets\SampleScenes\Shaders\Skybox-Procedural.shader" />

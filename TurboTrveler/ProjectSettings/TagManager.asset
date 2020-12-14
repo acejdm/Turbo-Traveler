@@ -5,6 +5,11 @@ TagManager:
   serializedVersion: 2
   tags:
   - CarPos
+  - path
+  - gameManager
+  - AI
+  - toDestroy
+  - EnemyCar
   layers:
   - Default
   - TransparentFX

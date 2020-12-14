@@ -25,7 +25,7 @@ public class RaceFinish : MonoBehaviour
         int nextSceneIndex = SceneManager.GetActiveScene().buildIndex;
         if (SceneManager.sceneCountInBuildSettings > nextSceneIndex)
         {
-            SceneManager.LoadScene(0);
+            SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
         }
     }
 }
