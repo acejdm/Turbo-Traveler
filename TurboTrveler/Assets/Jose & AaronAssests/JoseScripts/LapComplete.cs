@@ -28,11 +28,15 @@ public class LapComplete : MonoBehaviour
         if(LapsDone == 1)
         {
             RaceFinish.SetActive(true);
+          
+           
         }
 
         if(LapsDone == 2)
         {
             RaceFinish.SetActive(true);
+
+           
         }
        
     }
@@ -40,6 +44,7 @@ public class LapComplete : MonoBehaviour
     void OnTriggerEnter()
     {
         LapsDone += 1;
+        
        
         RawTime = PlayerPrefs.GetFloat("RawTime");
         if (LapTimeManeger.RawTime <= RawTime)
