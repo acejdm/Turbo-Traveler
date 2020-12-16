@@ -17,4 +17,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Jose & AaronAssests/Scene/city2.unity
     guid: 11471c063f9d3d146b25a50bc8e9eb19
+  - enabled: 1
+    path: Assets/Jose & AaronAssests/Scene/terrain1.unity
+    guid: 77a813093f14afa4785bd148575ca52f
+  - enabled: 1
+    path: Assets/Jose & AaronAssests/Assets/RacingGameAssets/Scenes/awakeScene.unity
+    guid: 69160dfbc3e10454fac39b45a5c98850
   m_configObjects: {}

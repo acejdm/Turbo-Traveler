@@ -10,6 +10,7 @@ TagManager:
   - AI
   - toDestroy
   - EnemyCar
+  - DeathFloor
   layers:
   - Default
   - TransparentFX
