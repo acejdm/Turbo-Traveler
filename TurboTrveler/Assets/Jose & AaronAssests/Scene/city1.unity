@@ -2403,6 +2403,11 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 633129561}
   m_CullTransparentMesh: 0
+--- !u!1 &641432619 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 5656746996494992909, guid: f43c2b1d3ca6a794c9103dc4e97da8bb, type: 3}
+  m_PrefabInstance: {fileID: 279678983}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &648422305
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -5129,6 +5134,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c551be7c89271e44c8a795eff4869f62, type: 3}
+--- !u!1 &1488079499 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 5656746996558379034, guid: f43c2b1d3ca6a794c9103dc4e97da8bb, type: 3}
+  m_PrefabInstance: {fileID: 279678983}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1510577752
 GameObject:
   m_ObjectHideFlags: 0
@@ -5271,9 +5281,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 19a9d2636e9b87f41bf1ec54f3344857, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+<<<<<<< Updated upstream
   MyCar: {fileID: 279678987}
   FinishCam: {fileID: 279678988}
   ViewModes: {fileID: 279678989}
+=======
+  MyCar: {fileID: 641432619}
+  FinishCam: {fileID: 1488079499}
+  ViewModes: {fileID: 0}
+>>>>>>> Stashed changes
   CompleteTrig: {fileID: 243103433}
 --- !u!65 &1525980851
 BoxCollider:
